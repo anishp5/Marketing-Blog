@@ -138,4 +138,4 @@ In short:
 
 ---
 
-*See the full code and data on our GitHub repo: https://github.com/anishp5/tesla-twitter-blog*
+*See the full code and data on our GitHub repo: [anishp5/tesla-twitter-blog](https://github.com/anishp5/tesla-twitter-blog)*
