@@ -1,5 +1,5 @@
 # Tweeting Tesla: Best Friends or Worst Enemies  
-*By: Anish Prakash, Andiya Singh Bhandari, Tejdeep Iddum, Ajay Raigaga*  
+*By: Anish Prakash, Anidya Singh Bhandari, Tejdeep Iddum, Ajay Raigaga*  
 *May 2025*
 
 ## The Loudest Brand Voice in Business
